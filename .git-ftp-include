@@ -1,0 +1,6 @@
+build/theme/css/style.css:build/theme/scss/style.scss
+build/theme/css/style.css:build/theme/scss/_layout.scss
+build/theme/css/style.css:build/theme/scss/base/_base.scss
+build/theme/css/style.css:build/theme/scss/base/_colors.scss
+build/theme/css/style.css:build/theme/scss/base/_mixins.scss
+build/theme/css/style.css:build/theme/scss/base/_reset.scss

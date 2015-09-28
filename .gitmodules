@@ -1,0 +1,3 @@
+[submodule "build/crux"]
+	path = build/crux
+	url = https://github.com/jonathanpatt/crux
